@@ -1,4 +1,4 @@
 print('holamundo')
-print('hellogit')
-print('holacesar')
-
+x=2
+y=3
+print('hola mundo')
